@@ -201,92 +201,92 @@ void ofApp::toggle_2onMousePressed(bool & e){
 
 //--------------------------------------------------------------
 void ofApp::livingCell_1onMousePressed(bool & e){
-  cellArray[0][0] = e;
+	cellArray[0][0] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::livingCell_2onMousePressed(bool & e){
-cellArray[0][1] = e;
+	cellArray[0][1] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::livingCell_3onMousePressed(bool & e){
-cellArray[0][2] = e;
+	cellArray[0][2] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::livingCell_4onMousePressed(bool & e){
-cellArray[0][3] = e;
+	cellArray[0][3] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::livingCell_5onMousePressed(bool & e){
-cellArray[0][4] = e;
+	cellArray[0][4] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::livingCell_6onMousePressed(bool & e){
-cellArray[0][5] = e;
+	cellArray[0][5] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::livingCell_7onMousePressed(bool & e){
-cellArray[0][6] = e;
+	cellArray[0][6] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::livingCell_8onMousePressed(bool & e){
-cellArray[0][7] = e;
+	cellArray[0][7] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::livingCell_9onMousePressed(bool & e){
-cellArray[0][8] = e;
+	cellArray[0][8] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::deadCell_1onMousePressed(bool & e){
-cellArray[1][0] = e;
+	cellArray[1][0] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::deadCell_2onMousePressed(bool & e){
-cellArray[1][1] = e;
+	cellArray[1][1] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::deadCell_3onMousePressed(bool & e){
-cellArray[1][2] = e;
+	cellArray[1][2] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::deadCell_4onMousePressed(bool & e){
-cellArray[1][3] = e;
+	cellArray[1][3] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::deadCell_5onMousePressed(bool & e){
-cellArray[1][4] = e;
+	cellArray[1][4] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::deadCell_6onMousePressed(bool & e){
-cellArray[1][5] = e;
+	cellArray[1][5] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::deadCell_7onMousePressed(bool & e){
-cellArray[1][6] = e;
+	cellArray[1][6] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::deadCell_8onMousePressed(bool & e){
-cellArray[1][7] = e;
+	cellArray[1][7] = e;
 }
 
 //--------------------------------------------------------------
 void ofApp::deadCell_9onMousePressed(bool & e){
-cellArray[1][8] = e;
+	cellArray[1][8] = e;
 }
 
 //--------------------------------------------------------------
